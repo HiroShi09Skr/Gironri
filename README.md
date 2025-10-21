@@ -21,7 +21,7 @@ Microsoft VitualStudio2022<br>
 [Dxライブラリ](https://dxlib.xsrv.jp/)<br>
 [nlomann-json](https://github.com/nlohmann/json)
 ## 必要動作環境
-Windows10/11
+Windows10/11<br>
 Xinput対応コントローラー1つ
 ## 起動方法
 ### プロジェクト
